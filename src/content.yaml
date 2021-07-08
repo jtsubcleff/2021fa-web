@@ -1,0 +1,98 @@
+-
+    topic: Course Overview
+    links: 
+           slides: slides01.pdf
+           video: https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a4e655-30c3-48a1-8cd2-ac2a013af513
+-
+    topic: Introduction to Semantics
+    links:
+            slides: slides02.pdf
+            notes: lecture02.pdf
+            video: https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbd0df47-7af8-4724-ba08-ac2d0024f963
+-
+    topic: Inductive Definitions
+    links:
+            slides: slides03.pdf
+            notes: lecture03.pdf
+            video: https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23d67274-e5d7-4101-a1f3-ac3000d72902
+-
+    topic: Properties and Inductive Proofs
+    links:
+            same slides: slides03.pdf
+            same notes: lecture03.pdf
+            video: https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06101c85-f208-45cc-bedf-ac320126f0c9
+-
+    topic: Inductive Proof and Large-Step Semantics
+    links:
+            slides: slides04.pdf
+            notes: lecture04.pdf
+            video: https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cf5229b-db2c-4087-9ec3-ac330154a517
+-
+    topic: The IMP Language
+-
+    topic: IMP Properties
+-
+    topic: More IMP Proofs
+-
+    topic: Denotational Semantics
+-
+    topic: Denotational Semantics Examples
+-
+    topic: Axiomatic Semantics
+-
+    topic: Hoare Logic
+-
+    topic: Hoare Logic Examples
+-
+    topic: Weakest Preconditions
+-
+    topic: λ-Calculus
+-
+    topic: More λ-Calculus and Substitution
+-
+    topic: de Bruijn and Combinators
+-
+    topic: Encodings
+-
+    topic: Encodings and Fixed-Point Combinators
+-
+    topic: Definitional Translation
+-
+    topic: Continuations
+-
+    topic: Types
+-
+    topic: More Types
+-
+    topic: Proving Type Soundness
+-
+    topic: Normalization
+-
+    topic: Advanced Types
+-
+    topic: Polymorphism
+-
+    topic: Type Inference
+-
+    topic: Recursive Types
+-
+    topic: Records and Subtyping
+-
+    topic: Existential Types
+-
+    topic: Propositions as Types
+- 
+    topic: Dependent Types
+- 
+    topic: Probabilistic Semantics
+- 
+    topic: Concurrency
+-
+    topic: DSLs
+-
+    topic: Certified Systems
+- 
+    topic: Synthesis
+- 
+    topic: Victory Lap
+- 

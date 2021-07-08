@@ -1,0 +1,136 @@
+-
+    date: September 2
+-
+    date: September 4
+-
+    date: September 7
+    mon: true
+-
+    date: September 9
+-
+    date: September 11
+-
+    date: September 14
+    mon: true
+    assignments: HW1 due
+-
+    date: September 16
+-
+    date: September 18
+-
+    date: September 21
+    mon: true
+    assignments: HW2 due
+-
+    date: September 23
+-
+    date: September 25
+-
+    date: September 28
+    mon: true
+    assignments: HW3 due
+-
+    date: September 30
+-
+    date: October 2
+-
+    date: October 5
+    mon: true
+    assignments: Take-Home Prelim 1
+-
+    date: October 7
+-
+    date: October 9
+    assignments: Project Charter due
+-
+    date: October 12
+    mon: true
+    assignments: HW 4 due
+-
+    date: October 14
+    event: Mid-semester break
+    canceled: true
+-
+    date: October 16
+-
+    date: October 19
+    mon: true
+    assignments: HW5 due
+-
+    date: October 21
+-
+    date: October 23
+-
+    date: October 26
+    mon: true
+    assignments: HW6 due
+-
+    date: October 28
+-
+    date: October 30
+-
+    date: November 2
+    mon: true
+    assignments: HW7 due
+-
+    date: November 4
+-
+    date: November 6
+-
+    date: November 9
+    mon: true
+    assignments: Take-Home Prelim 2
+-
+    date: November 11
+-
+    date: November 13
+    assignments: Project Alpha due
+-
+    date: November 16
+    mon: true
+    event: Study days
+    canceled: true
+-
+    date: November 18
+    event: Semi-finals
+    canceled: true
+-
+    date: November 20
+    event: Semi-finals
+    canceled: true
+-
+    date: November 23
+    mon: true
+    event: Semi-finals
+    canceled: true
+-
+    date: November 25
+    event: No class (Thanksgiving)
+    canceled: true
+-
+    date: November 27
+    event: No class (Thanksgiving)
+    canceled: true
+-
+    date: November 30
+    mon: true
+-
+    date: December 2
+-
+    date: December 4
+    assignments: Project Beta due
+-
+    date: December 7
+    mon: true
+    assignments: Homework 8 due
+-
+    date: December 9
+-
+    date: December 11
+- 
+    date: December 14
+    mon: true
+    assignments: Project Final due
+- 
+    date: December 16
+
