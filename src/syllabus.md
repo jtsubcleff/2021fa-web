@@ -157,7 +157,9 @@ Here is what you need to do for 5110:
 after each prelim, pick a problem from the exam and complete an *expanded version* of the solution.
 The expanded version includes step-by-step details on how to solve the problem and one or two paragraphs of explanation of your strategy.
 Your expanded solution should explain to an audience who didn't understand the problem exactly how to solve it.
+
 The expanded solution is due one week after each prelim is graded.
+These extra assignments contribute to the "homework" portion of your course grade.
 
 # Policies
 
