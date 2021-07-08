@@ -8,7 +8,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 
 # TL;DR
 
-- All course communication will happen on [Campuswire][cw].
+- All course communication will happen on [Ed][].
   - Create an account with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
   - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
 - Homework and grading happens on [CMS][].
@@ -24,15 +24,15 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
   - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the general gist of the solution.
 
 [cms]: https://cmsx.cs.cornell.edu/
-[cw]: https://campuswire.com/p/G8507B91A
+[ed]: https://edstem.org
 
 # Organization
 
-## Announcements and Q&A: Campuswire
+## Announcements and Q&A: Ed
 
-We will be using [Campuswire][cw] for all announcements and communication about the course. (We're using Campuswire *instead of* Piazza.) Sign up for an account there with your <code>netid&commat;cornell.edu</code> email address. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
+We will be using [Ed][] for all announcements and communication about the course. Sign up for an account there with your <code>netid&commat;cornell.edu</code> email address. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
 
-You can also ask questions---about lectures, homework, or anything else---on Campuswire.
+You can also ask questions---about lectures, homework, or anything else---on Ed.
 
 If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by creating a note that is visible only to "Instructors and TAs."
 
@@ -168,7 +168,7 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 
 Here's the policy for **exams**: you may not give assistance to anyone or receive assistance of any kind from anyone at all (outside of the course staff) during an exam. All exams are closed book.
 
-You may not give any hints or post any code that might be part of a solution on Campuswire (except in a private thread with course staff).
+You may not give any hints or post any code that might be part of a solution on Ed (except in a private thread with course staff).
 On both assignments and exams, the web is always off limits: you may not Google anything or look anything up on Wikipedia to get help, for example.
 
 ## Respect in Class
