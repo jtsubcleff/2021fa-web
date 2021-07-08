@@ -4,7 +4,7 @@ build: node_modules
 	yarn run build
 
 serve: node_modules
-	yarn run serve
+	yarn start
 
 clean:
 	rm -rf build
