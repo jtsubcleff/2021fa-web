@@ -1,136 +1,122 @@
 -
-    date: September 2
+    date: August 27
 -
-    date: September 4
--
-    date: September 7
+    date: August 30
     mon: true
 -
-    date: September 9
+    date: September 1
 -
-    date: September 11
+    date: September 3
 -
-    date: September 14
+    date: September 6
     mon: true
-    assignments: HW1 due
--
-    date: September 16
--
-    date: September 18
--
-    date: September 21
-    mon: true
-    assignments: HW2 due
--
-    date: September 23
--
-    date: September 25
--
-    date: September 28
-    mon: true
-    assignments: HW3 due
--
-    date: September 30
--
-    date: October 2
--
-    date: October 5
-    mon: true
-    assignments: Take-Home Prelim 1
--
-    date: October 7
--
-    date: October 9
-    assignments: Project Charter due
--
-    date: October 12
-    mon: true
-    assignments: HW 4 due
--
-    date: October 14
-    event: Mid-semester break
     canceled: true
+    event: Labor Day
 -
-    date: October 16
+    date: September 8
 -
-    date: October 19
+    date: September 10
+-
+    date: September 13
     mon: true
-    assignments: HW5 due
+    assignments: A1 due
 -
-    date: October 21
+    date: September 15
 -
-    date: October 23
+    date: September 17
 -
-    date: October 26
+    date: September 20
     mon: true
-    assignments: HW6 due
+    assignments: A2 due
 -
-    date: October 28
+    date: September 22
 -
-    date: October 30
+    date: September 24
 -
-    date: November 2
+    date: September 27
     mon: true
-    assignments: HW7 due
+    assignments: A3 due
 -
-    date: November 4
+    date: September 29
 -
-    date: November 6
+    date: October 1
 -
-    date: November 9
+    date: October 4
     mon: true
-    assignments: Take-Home Prelim 2
+    assignments: A4 due
 -
-    date: November 11
+    date: October 6
 -
-    date: November 13
-    assignments: Project Alpha due
+    date: October 8
 -
-    date: November 16
+    date: October 11
     mon: true
-    event: Study days
     canceled: true
+    event: Fall Break
 -
-    date: November 18
-    event: Semi-finals
-    canceled: true
+    date: October 13
 -
-    date: November 20
-    event: Semi-finals
-    canceled: true
+    date: October 15
 -
-    date: November 23
+    date: October 18
     mon: true
-    event: Semi-finals
-    canceled: true
+    event: Preliminary Exam I
 -
-    date: November 25
+    date: October 20
+-
+    date: October 22
+-
+    date: October 25
+    mon: true
+    assignments: A5 due
+-
+    date: October 27
+-
+    date: October 29
+-
+    date: November 1
+    mon: true
+    assignments: A6 due
+-
+    date: November 3
+-
+    date: November 5
+-
+    date: November 8
+    mon: true
+    assignments: A7 due
+-
+    date: November 10
+-
+    date: November 12
+-
+    date: November 15
+    mon: true
+    event: Preliminary Exam II
+-
+    date: November 17
+-
+    date: November 19
+-
+    date: November 22
+    mon: true
+    assignments: A8 due
+-
+    date: November 24
     event: No class (Thanksgiving)
     canceled: true
 -
-    date: November 27
+    date: November 26
     event: No class (Thanksgiving)
     canceled: true
 -
-    date: November 30
+    date: November 29
     mon: true
+    assignments: A9 due
 -
-    date: December 2
+    date: December 1
 -
-    date: December 4
-    assignments: Project Beta due
+    date: December 3
 -
-    date: December 7
+    date: December 6
     mon: true
-    assignments: Homework 8 due
--
-    date: December 9
--
-    date: December 11
-- 
-    date: December 14
-    mon: true
-    assignments: Project Final due
-- 
-    date: December 16
-
