@@ -4,7 +4,7 @@ layout: layout.html
 order: 2
 ---
 
-CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride through the beauty and glory of programming languages, the theory behind them, and their implementation. It will not be easy, but you will achieve a clear and rigorous understanding of computing: a rare enlightenment that will give you great power.
+CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park ride through the beauty and glory of programming languages, the theory behind them, and their implementation. It will not be easy, but you will achieve a clear and rigorous understanding of computing: a rare enlightenment that will give you great power.
 
 # TL;DR
 
@@ -22,6 +22,7 @@ CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride 
 - The homework and exams may feel different from other classes.
   - Expect the homework to make you try things we haven't done in class. Expect to get stuck and to ask for help. Exams will be less expansive but will still require original thought.
   - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the general gist of the solution.
+- CS 4110 (undergraduate) and CS 5110 (MEng) are mostly the same, except for some extra assignments in the latter.
 
 [cms]: https://cmsx.cs.cornell.edu/
 [ed]: https://edstem.org
@@ -142,6 +143,21 @@ This is an advanced course, so some things will be different from other classes 
 * Problems on exams should feel more familiar and stretch you somewhat less. On the other hand, they will not just be slightly tweaked versions of previous homework problems.
 
 Grading on both homework and exams will intentionally focus on details. Compared to other courses, we will give more weight to "small" mistakes and less weight to getting the general idea right. That's the nature of this course, which is about formalism. Often, the intuitive idea behind a problem is totally obvious! Then, the topic we're working on is 100% about getting the nitty-gritty formal details right so we can prove something beyond a shadow of a doubt.
+
+## 4110 vs. 5110
+
+This course is offered in two flavors:
+CS 4110 is the undergraduate version,
+and CS 5110 is the MEng version.
+BS/BA students must enroll in 4110, and MEng students must enroll in 5110.
+Most of the content is the same: 4110 and 5110 students attend the same lectures, complete the same homework assignments, and take the same exams.
+
+The only difference is some extra work in CS 5110.
+Here is what you need to do for 5110:
+after each prelim, pick a problem from the exam and complete an *expanded version* of the solution.
+The expanded version includes step-by-step details on how to solve the problem and one or two paragraphs of explanation of your strategy.
+Your expanded solution should explain to an audience who didn't understand the problem exactly how to solve it.
+The expanded solution is due one week after each prelim is graded.
 
 # Policies
 
