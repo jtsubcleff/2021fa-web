@@ -10,12 +10,28 @@ in {{ course.room }}
 
 ### Instructor
 
-[**Adrian Sampson** (he/him)][adrian]    
+[**Adrian Sampson**][adrian] (he/him)    
 Office hour: TK
 
 ### Teaching Assistants
 
-TK
+**James Goodling**  
+Office hour: TK
+
+**David Lee**  
+Office hour: TK
+
+**Sophia Roshal**  
+Office hour: TK
+
+**Jackson Subcleff**  
+Office hour: TK
+
+**Leon Witzman**  
+Office hour: TK
+
+[**Noam Zilberstein**](https://noamz.net)  
+Office hour: TK
 
 ### Contact
 
