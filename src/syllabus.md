@@ -206,7 +206,15 @@ individual needs.
 
 If you experience personal or academic stress or need to talk to someone who can help, contact the instructor or:
 
-- <a href="http://www.engineering.cornell.edu/student-services/academic-advising">Engineering Academic Advising</a> at 607-255-7414
-- <a href="http://lsc.sas.cornell.edu">Learning Strategies Center</a> at 607-255-6310
-- <a href="http://www.gannett.cornell.edu/LetsTalk">Let's Talk Drop-in Counseling</a> at Gannett at 607-255-5155
-- <a href="http://ears.dos.cornell.edu">Empathy Assistance and Referral Service</a> at 607-255-EARS
+- [Engineering Academic Advising][eng-adv] at 607-255-7414
+- [Learning Strategies Center][lsc] at 607-255-6310
+- [Let's Talk Drop-in Counseling][letstalk] at Gannett at 607-255-5155
+- [Empathy Assistance and Referral Service (EARS)][ears] at 607-255-EARS
+
+Please also explore [other mental health resources][caringcommunity] available at Cornell.
+
+[eng-adv]: http://www.engineering.cornell.edu/student-services/academic-advising
+[lsc]: http://lsc.sas.cornell.edu
+[letstalk]: http://www.gannett.cornell.edu/LetsTalk
+[ears]: http://ears.dos.cornell.edu
+[caringcommunity]: https://caringcommunity.cornell.edu
