@@ -206,15 +206,16 @@ individual needs.
 
 If you experience personal or academic stress or need to talk to someone who can help, contact the instructor or:
 
-- [Engineering Academic Advising][eng-adv] at 607-255-7414
+- [Engineering academic advising][eng-adv] at 607-255-7414, or [Arts & Sciences academic advising][as-adv] via their appointment system
 - [Learning Strategies Center][lsc] at 607-255-6310
 - [Let's Talk Drop-in Counseling][letstalk] at Gannett at 607-255-5155
 - [Empathy Assistance and Referral Service (EARS)][ears] at 607-255-EARS
 
 Please also explore [other mental health resources][caringcommunity] available at Cornell.
 
-[eng-adv]: http://www.engineering.cornell.edu/student-services/academic-advising
+[eng-adv]: https://www.engineering.cornell.edu/students/undergraduate-students/advising
 [lsc]: http://lsc.sas.cornell.edu
 [letstalk]: http://www.gannett.cornell.edu/LetsTalk
 [ears]: http://ears.dos.cornell.edu
 [caringcommunity]: https://caringcommunity.cornell.edu
+[as-adv]: https://as.cornell.edu/advising
