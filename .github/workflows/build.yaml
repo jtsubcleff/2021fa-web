@@ -33,5 +33,5 @@ jobs:
           ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' \
             $DEPLOY_USER@$DEPLOY_HOST \
             rsync --compress --recursive --checksum --itemize-changes \
-            --delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
+            --delete -e ssh --chmod=ugo=rwX \
             $DEPLOY_DEST/ $DEPLOY_2_HOST:$DEPLOY_2_DEST
