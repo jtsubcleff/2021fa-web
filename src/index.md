@@ -15,7 +15,7 @@ Office hour: TK
 
 ### Teaching Assistants
 
-**James Goodling**  
+**James "Clay" Goodling**  
 Office hour: TK
 
 **David Lee**  
