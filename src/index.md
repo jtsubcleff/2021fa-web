@@ -31,7 +31,7 @@ Office hour: TK
 Office hour: TK
 
 [**Noam Zilberstein**](https://noamz.net)  
-Office hour: TK
+Office hour: Wednesdays 2:30-3:30pm (Rhodes 402)
 
 ### Contact
 
