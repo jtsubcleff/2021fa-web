@@ -28,7 +28,7 @@ Office hour: 11am-12pm Friday
 Office hour: TK
 
 **Leon Witzman**  
-Office hour: TK
+Office hour: Tuesdays 10:30-11:30am (Rhodes 405)
 
 [**Noam Zilberstein**](https://noamz.net)  
 Office hour: Wednesdays 2:30-3:30pm (Rhodes 402)
