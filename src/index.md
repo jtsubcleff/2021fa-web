@@ -18,8 +18,8 @@ Office hour: TK
 **James "Clay" Goodling**  
 Office hour: TK
 
-**David Lee**  
-Office hour: TK
+[**David J. Lee**](https://djslzx.github.io) (he/him)  
+Office hours: Wednesdays 10:30–11:30am (Rhodes 418)
 
 **Sophia Roshal**  
 Office hour: TK
