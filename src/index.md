@@ -22,7 +22,7 @@ Office hour: TK
 Office hour: TK
 
 **Sophia Roshal**  
-Office hour: TK
+Office hour: 11am-12pm Friday
 
 **Jackson Subcleff**  
 Office hour: TK
