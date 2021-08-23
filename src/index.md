@@ -25,7 +25,7 @@ Office hours: Wednesdays 10:30–11:30am (Rhodes 418)
 Office hour: Fridays 11am-12pm (Rhodes 405)
 
 **Jackson Subcleff**  
-Office hour: TK
+Office hour: Thursdays 10am - 11am (Rhodes 405)
 
 **Leon Witzman**  
 Office hour: Tuesdays 10:30-11:30am (Rhodes 405)
