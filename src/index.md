@@ -11,7 +11,7 @@ in {{ course.room }}
 ### Instructor
 
 [**Adrian Sampson**][adrian] (he/him)    
-Office hour: TK
+Office hour: Monday 3:30–4:30pm (Gates 411A)
 
 ### Teaching Assistants
 
