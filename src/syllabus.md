@@ -211,11 +211,11 @@ If you experience personal or academic stress or need to talk to someone who can
 - [Let's Talk Drop-in Counseling][letstalk] at Gannett at 607-255-5155
 - [Empathy Assistance and Referral Service (EARS)][ears] at 607-255-EARS
 
-Please also explore [other mental health resources][caringcommunity] available at Cornell.
+Please also explore [other mental health resources][mentalhealth] available at Cornell.
 
 [eng-adv]: https://www.engineering.cornell.edu/students/undergraduate-students/advising
 [lsc]: http://lsc.sas.cornell.edu
 [letstalk]: http://www.gannett.cornell.edu/LetsTalk
 [ears]: http://ears.dos.cornell.edu
-[caringcommunity]: https://caringcommunity.cornell.edu
 [as-adv]: https://as.cornell.edu/advising
+[mentalhealth]: https://mentalhealth.cornell.edu
