@@ -25,7 +25,7 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
 - CS 4110 (undergraduate) and CS 5110 (MEng) are mostly the same, except for some extra assignments in the latter.
 
 [cms]: https://cmsx.cs.cornell.edu/
-[ed]: https://edstem.org
+[ed]: https://edstem.org/us/courses/9227/discussion/
 
 # Organization
 

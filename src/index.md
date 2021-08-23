@@ -45,4 +45,4 @@ Can't make the normal office hours? Post a private note to
 to meet with you if we have enough notice.
 
 [adrian]: https://www.cs.cornell.edu/~asampson/
-[ed]: https://edstem.org
+[ed]: https://edstem.org/us/courses/9227/discussion/
